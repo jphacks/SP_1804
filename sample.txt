@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-sample
-=======
-
->>>>>>> origin/master
-
-tazawa akira
+this is sample text
