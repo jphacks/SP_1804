@@ -28,6 +28,23 @@ const intentHandler = async responseHelper => {
       SpeechBuilder.createSpeechText('いえいえ')
     );
     break;
+      
+    case 'asaKusuri':
+    responseHelper.setSimpleSpeech(
+      SpeechBuilder.createSpeechText('A, B, Cです');
+    );
+    break;
+    case 'hiruKusuri':
+    responseHelper.setSimpleSpeech(
+      SpeechBuilder.createSpeechText('B, C, Dです');
+    );
+    break;
+    case 'yoruKusuri':
+    responseHelper.setSimpleSpeech(
+      SpeechBuilder.createSpeechText('C, D, Eです');
+    );
+    break;
+      
     default:
     responseHelper.setSimpleSpeech(
       SpeechBuilder.createSpeechText('なんなん')
