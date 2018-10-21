@@ -36,16 +36,15 @@ LINEと組み合わせることで、日常的に意識することなく使う�
 #### API・データ
 
 * Messaging api
-* clova-cek-sdk-nodejs
-* 
+* clova-cek-sdk-nodejs 
 
 #### フレームワーク・ライブラリ・モジュール
 
-*heroku
-*python 3.6.3
-*Node.js v10.12.0
-*flask
-*Express 4.16.0
+* heroku
+* python 3.6.3
+* Node.js v10.12.0
+* flask
+* Express 4.16.0
 
 #### デバイス
 * Clova Friends
