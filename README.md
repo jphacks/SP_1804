@@ -1,8 +1,8 @@
-##### お薬飲んでねbot
+## お薬飲んでねbot
 
 [![Product Name](image.png)](https://youtu.be/ipalkIJlz38)
 
-##### 製品概要
+## 製品概要
 Medicine Tech
 
 ##### 背景
